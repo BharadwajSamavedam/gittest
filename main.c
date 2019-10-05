@@ -1,0 +1,6 @@
+main()
+{
+
+//Code for main
+
+}
